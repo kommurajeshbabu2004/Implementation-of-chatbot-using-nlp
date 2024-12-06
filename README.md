@@ -3,7 +3,9 @@
 This project implements a chatbot that uses Natural Language Processing (NLP) techniques to understand and respond to user inputs. The chatbot is designed to interpret user intents and provide responses based on predefined patterns and responses. The core technologies and components involved in this project are:
 
 *NLP with nltk: The chatbot utilizes the nltk library to process natural language inputs, including tokenization, lemmatization, and intent recognition.
+
 *Machine Learning with scikit-learn: The project incorporates machine learning algorithms for intent classification. The model is trained on a dataset of user inputs to improve the chatbot's ability to understand various queries and respond accurately.
+
 *Interactive Interface with streamlit: The chatbot features an interactive web interface built using streamlit, enabling users to communicate with the bot in real-time.
 
 ---
